@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/9/9 20:00</create-date>
  *
- * <copyright file="NGramDictionaryMaker.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="NGramDictionaryMaker.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.corpus.dictionary;
@@ -23,7 +23,7 @@ import java.util.TreeMap;
 import java.util.TreeSet;
 /**
  * 转移矩阵词典制作工具
- * @author hankcs
+ * @author thyferny
  */
 public class TMDictionaryMaker implements ISaveAble
 {

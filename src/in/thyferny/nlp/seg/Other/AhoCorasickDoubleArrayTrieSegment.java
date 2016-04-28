@@ -23,13 +23,13 @@ import in.thyferny.nlp.seg.DictionaryBasedSegment;
 import in.thyferny.nlp.seg.Segment;
 import in.thyferny.nlp.seg.NShort.Path.AtomNode;
 import in.thyferny.nlp.seg.common.Term;
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
  * 使用AhoCorasickDoubleArrayTrie实现的最长分词器<br>
  * 需要用户调用setTrie()提供一个AhoCorasickDoubleArrayTrie
  *
- * @author hankcs
+ * @author thyferny
  */
 public class AhoCorasickDoubleArrayTrieSegment extends DictionaryBasedSegment
 {

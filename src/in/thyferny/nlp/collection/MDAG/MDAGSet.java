@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/12/20 22:10</create-date>
  *
- * <copyright file="MDAGSet.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="MDAGSet.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.collection.MDAG;
@@ -18,7 +18,7 @@ import java.util.*;
 /**
  * 基于MDAG（又称DAWG，Minimal Acyclic Finite-State Automata）的String Set
  *
- * @author hankcs
+ * @author thyferny
  */
 public class MDAGSet extends MDAG implements Set<String>
 {

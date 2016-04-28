@@ -12,7 +12,7 @@ package in.thyferny.nlp.seg;
 
 /**
  * 基于词典的机械分词器基类
- * @author hankcs
+ * @author thyferny
  */
 public abstract class DictionaryBasedSegment extends Segment
 {

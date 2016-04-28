@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/11/5 16:34</create-date>
  *
- * <copyright file="BaseScorer.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="BaseScorer.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.suggest.scorer;
@@ -17,7 +17,7 @@ import java.util.*;
 /**
  * 基本打分器
  * @param <T> 这是储存器map中key的类型，具有相同key的句子会存入同一个entry
- * @author hankcs
+ * @author thyferny
  */
 public abstract class BaseScorer<T extends ISentenceKey> implements IScorer
 {

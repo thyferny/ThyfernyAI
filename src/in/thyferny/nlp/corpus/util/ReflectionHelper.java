@@ -19,7 +19,7 @@ import java.lang.reflect.Modifier;
 
 /**
  * 修改final static域的反射工具
- * @author hankcs
+ * @author thyferny
  */
 public class ReflectionHelper
 {

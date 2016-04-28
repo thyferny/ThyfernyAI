@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/10/29 14:53</create-date>
  *
- * <copyright file="AbstractBaseSegment.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="AbstractBaseSegment.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.seg;
@@ -29,14 +29,14 @@ import in.thyferny.nlp.seg.common.Vertex;
 import in.thyferny.nlp.seg.common.WordNet;
 import in.thyferny.nlp.utility.Predefine;
 import in.thyferny.nlp.utility.SentencesUtil;
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
  * 分词器（分词服务）<br>
  * 是所有分词器的基类（Abstract）<br>
  * 分词器的分词方法是线程安全的，但配置方法则不保证
  *
- * @author hankcs
+ * @author thyferny
  */
 public abstract class Segment
 {

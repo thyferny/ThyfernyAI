@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/10/17 19:02</create-date>
  *
- * <copyright file="HanLP.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="HanLP.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp;
@@ -41,7 +41,7 @@ import in.thyferny.nlp.utility.Predefine;
  * 汉语言处理包 <br>
  * 常用接口工具类
  *
- * @author hankcs
+ * @author thyferny
  */
 public class HanLP
 {

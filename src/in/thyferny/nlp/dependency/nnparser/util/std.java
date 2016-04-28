@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/10/31 21:26</create-date>
  *
@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.ListIterator;
 
 /**
- * @author hankcs
+ * @author thyferny
  */
 public class std
 {

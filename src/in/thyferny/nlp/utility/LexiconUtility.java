@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/7/14 11:01</create-date>
  *
@@ -23,7 +23,7 @@ import in.thyferny.nlp.seg.common.Term;
 /**
  * 跟词语与词性有关的工具类，可以全局动态修改HanLP内部词库
  *
- * @author hankcs
+ * @author thyferny
  */
 public class LexiconUtility
 {

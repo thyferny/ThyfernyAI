@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.regex.Pattern;
 
-import in.thyferny.images.core.util.SparseBooleanVector;
-import in.thyferny.images.core.util.SparseIntegerVector;
+import in.thyferny.utils.SparseBooleanVector;
+import in.thyferny.utils.SparseIntegerVector;
 
 /**
  * k-shingling is the operation of transforming a string (or text document) into

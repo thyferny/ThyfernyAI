@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/12/31 11:58</create-date>
  *
- * <copyright file="NRPattern.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="NRPattern.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.dictionary.nr;
@@ -14,7 +14,7 @@ package in.thyferny.nlp.dictionary.nr;
 /**
  * 人名识别模式串
  *
- * @author hankcs
+ * @author thyferny
  */
 public enum NRPattern
 {

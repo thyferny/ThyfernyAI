@@ -21,7 +21,7 @@ import java.nio.channels.FileChannel;
 import java.util.*;
 
 import in.thyferny.nlp.corpus.io.ByteArray;
-import in.thyferny.nlp.utility.ByteUtil;
+import in.thyferny.utils.ByteUtil;
 
 /**
  * 双数组Trie树

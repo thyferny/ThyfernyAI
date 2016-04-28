@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/10/31 20:42</create-date>
  *
@@ -12,7 +12,7 @@
 package in.thyferny.nlp.dependency.nnparser.action;
 
 /**
- * @author hankcs
+ * @author thyferny
  */
 public class ActionFactory implements ActionType
 {

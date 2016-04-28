@@ -18,7 +18,7 @@ import in.thyferny.nlp.seg.common.Term;
 
 /**
  * 基础分词器，只做基本NGram分词，不识别命名实体，不使用用户词典
- * @author hankcs
+ * @author thyferny
  */
 public class BasicTokenizer
 {

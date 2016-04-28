@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/11/10 20:13</create-date>
  *
@@ -21,7 +21,7 @@ import in.thyferny.nlp.seg.common.Term;
 /**
  * 依存句法分析器接口
  *
- * @author hankcs
+ * @author thyferny
  */
 public interface IDependencyParser
 {

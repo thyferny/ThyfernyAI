@@ -1,10 +1,10 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/11/17 19:34</create-date>
  *
- * <copyright file="PlaceRecognition.java" company="上海林原信息科技有限公司">
+ * <copyright file="PlaceRecognition.java" company="thyferny">
  * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.liNSunsoft.com/
  * This source is subject to the LiNSunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
  * </copyright>
@@ -27,7 +27,7 @@ import in.thyferny.nlp.seg.common.WordNet;
 
 /**
  * 地址识别
- * @author hankcs
+ * @author thyferny
  */
 public class PlaceRecognition
 {

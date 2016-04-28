@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/11/1 21:27</create-date>
  *
@@ -14,7 +14,7 @@ package in.thyferny.nlp.dependency.nnparser;
 import java.util.List;
 
 /**
- * @author hankcs
+ * @author thyferny
  */
 public class Sample
 {

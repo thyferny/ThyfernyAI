@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/9/18 19:47</create-date>
  *
- * <copyright file="NatureDictionaryMaker.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="NatureDictionaryMaker.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.corpus.dictionary;
@@ -25,10 +25,10 @@ import in.thyferny.nlp.corpus.tag.Nature;
 import in.thyferny.nlp.corpus.util.CorpusUtil;
 import in.thyferny.nlp.corpus.util.Precompiler;
 import in.thyferny.nlp.utility.Predefine;
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
- * @author hankcs
+ * @author thyferny
  */
 public class NatureDictionaryMaker extends CommonDictionaryMaker
 {

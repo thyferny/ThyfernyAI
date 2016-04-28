@@ -23,7 +23,7 @@ import in.thyferny.nlp.corpus.io.ICacheAble;
 /**
  * 概率统计工具
  *
- * @author hankcs
+ * @author thyferny
  */
 public class Probability implements ICacheAble
 {

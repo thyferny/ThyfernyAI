@@ -11,7 +11,7 @@
 package in.thyferny.nlp.collection.trie.bintrie;
 
 /**
- * @author hankcs
+ * @author thyferny
  */
 public class _EmptyValueArray<V> extends _ValueArray<V>
 {

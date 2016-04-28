@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/7/29 16:35</create-date>
  *
@@ -16,7 +16,7 @@ import java.io.FileFilter;
 
 /**
  * 文本读取工具
- * @author hankcs
+ * @author thyferny
  */
 public class EasyReader
 {

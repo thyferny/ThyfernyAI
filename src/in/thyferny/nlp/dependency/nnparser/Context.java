@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/11/1 22:02</create-date>
  *
@@ -13,7 +13,7 @@ package in.thyferny.nlp.dependency.nnparser;
 
 /**
  * 上下文
- * @author hankcs
+ * @author thyferny
  */
 public class Context
 {

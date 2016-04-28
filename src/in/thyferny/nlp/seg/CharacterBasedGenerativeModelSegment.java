@@ -12,7 +12,7 @@ package in.thyferny.nlp.seg;
 
 /**
  * 基于字构词的生成式模型分词器基类
- * @author hankcs
+ * @author thyferny
  */
 public abstract class CharacterBasedGenerativeModelSegment extends Segment
 {

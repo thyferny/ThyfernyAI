@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/10/31 20:38</create-date>
  *
@@ -13,7 +13,7 @@ package in.thyferny.nlp.dependency.nnparser.action;
 
 /**
  * arc-standard system (Nivre, 2004) 用到的动作，类似于 Yamada 和 Matsumoto 提出的分析动作
- * @author hankcs
+ * @author thyferny
  */
 public interface ActionType
 {

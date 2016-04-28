@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/11/2 21:17</create-date>
  *
@@ -17,7 +17,7 @@ import java.util.List;
 import in.thyferny.nlp.seg.common.Term;
 
 /**
- * @author hankcs
+ * @author thyferny
  */
 public class PosTagUtil
 {

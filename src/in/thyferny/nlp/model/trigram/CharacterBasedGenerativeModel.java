@@ -23,7 +23,7 @@ import in.thyferny.nlp.model.trigram.frequency.Probability;
 /**
  * 基于字符的生成模型（其实就是一个TriGram文法模型，或称2阶隐马模型）
  *
- * @author hankcs
+ * @author thyferny
  */
 public class CharacterBasedGenerativeModel implements ICacheAble
 {

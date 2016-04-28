@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/9/10 15:39</create-date>
  *
- * <copyright file="NRDictionary.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="NRDictionary.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.dictionary.nr;
@@ -23,12 +23,12 @@ import in.thyferny.nlp.corpus.dictionary.item.EnumItem;
 import in.thyferny.nlp.corpus.io.IOUtil;
 import in.thyferny.nlp.corpus.tag.NR;
 import in.thyferny.nlp.dictionary.common.CommonDictionary;
-import in.thyferny.nlp.utility.ByteUtil;
+import in.thyferny.utils.ByteUtil;
 
 /**
  * 一个好用的人名词典
  *
- * @author hankcs
+ * @author thyferny
  */
 public class NRDictionary extends CommonDictionary<EnumItem<NR>>
 {

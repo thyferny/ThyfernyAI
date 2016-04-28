@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/10/30 19:24</create-date>
  *
@@ -20,7 +20,7 @@ import in.thyferny.nlp.dependency.nnparser.option.SpecialOption;
 
 /**
  * 静态调用的伪 Windows “dll”
- * @author hankcs
+ * @author thyferny
  */
 public class parser_dll
 {

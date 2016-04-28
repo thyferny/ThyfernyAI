@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/10/31 22:17</create-date>
  *
@@ -20,7 +20,7 @@ import in.thyferny.nlp.dependency.nnparser.action.ActionUtils;
 
 /**
  * 动作转移系统
- * @author hankcs
+ * @author thyferny
  */
 public class TransitionSystem
 {

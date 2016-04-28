@@ -26,8 +26,8 @@ package in.thyferny.images.lsh;
 
 import java.io.Serializable;
 
-import in.thyferny.images.core.util.SparseDoubleVector;
-import in.thyferny.images.core.util.SparseIntegerVector;
+import in.thyferny.utils.SparseDoubleVector;
+import in.thyferny.utils.SparseIntegerVector;
 
 /**
  *

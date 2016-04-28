@@ -26,7 +26,7 @@ package in.thyferny.string.similarity.examples;
 
 import java.util.Random;
 
-import in.thyferny.images.core.util.SparseDoubleVector;
+import in.thyferny.utils.SparseDoubleVector;
 
 /**
  *

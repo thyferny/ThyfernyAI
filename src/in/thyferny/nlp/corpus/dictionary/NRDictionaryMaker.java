@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/9/9 14:46</create-date>
  *
- * <copyright file="NRDictionaryMaker.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="NRDictionaryMaker.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.corpus.dictionary;
@@ -28,7 +28,7 @@ import in.thyferny.nlp.utility.Predefine;
 
 /**
  * nr词典（词典+ngram转移+词性转移矩阵）制作工具
- * @author hankcs
+ * @author thyferny
  */
 public class NRDictionaryMaker extends CommonDictionaryMaker
 {

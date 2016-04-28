@@ -21,7 +21,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package in.thyferny.images.core.util;
+package in.thyferny.utils;
 
 import java.io.Serializable;
 import java.util.ArrayList;

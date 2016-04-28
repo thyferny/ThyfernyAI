@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/11/1 20:04</create-date>
  *
@@ -21,7 +21,7 @@ import in.thyferny.nlp.dependency.nnparser.option.LearnOption;
 
 /**
  * 基于神经网络模型的分类器
- * @author hankcs
+ * @author thyferny
  */
 public class NeuralNetworkClassifier
 {

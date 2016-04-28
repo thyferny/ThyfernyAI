@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/10/31 20:52</create-date>
  *
@@ -17,7 +17,7 @@ import java.util.List;
 import in.thyferny.nlp.dependency.nnparser.Dependency;
 
 /**
- * @author hankcs
+ * @author thyferny
  */
 public class ActionUtils implements ActionType
 {

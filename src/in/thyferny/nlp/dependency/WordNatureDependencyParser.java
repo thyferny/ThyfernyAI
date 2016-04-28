@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/11/20 17:24</create-date>
  *
- * <copyright file="WordNatureDependencyParser.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="WordNatureDependencyParser.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.dependency;
@@ -23,7 +23,7 @@ import in.thyferny.nlp.tokenizer.NLPTokenizer;
 /**
  * 一个简单的句法分析器
  *
- * @author hankcs
+ * @author thyferny
  */
 public class WordNatureDependencyParser extends MinimumSpanningTreeParser
 {

@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/9/9 22:30</create-date>
  *
- * <copyright file="CommonDictioanry.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="CommonDictioanry.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.dictionary.common;
@@ -23,7 +23,7 @@ import in.thyferny.nlp.dictionary.BaseSearcher;
 /**
  * 通用的词典，对应固定格式的词典，但是标签可以泛型化
  *
- * @author hankcs
+ * @author thyferny
  */
 public abstract class CommonDictionary<V>
 {

@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/9/13 20:30</create-date>
  *
- * <copyright file="EditDistance.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="EditDistance.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.algoritm;
@@ -17,7 +17,7 @@ import in.thyferny.nlp.dictionary.common.CommonSynonymDictionary;
 
 /**
  * 基于语义距离的编辑距离实现
- * @author hankcs
+ * @author thyferny
  */
 public class EditDistance
 {

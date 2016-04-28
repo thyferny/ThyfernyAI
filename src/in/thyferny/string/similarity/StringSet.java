@@ -24,7 +24,7 @@
 
 package in.thyferny.string.similarity;
 
-import in.thyferny.images.core.util.SparseBooleanVector;
+import in.thyferny.utils.SparseBooleanVector;
 
 /**
  * Set representation of a string (list of occuring shingles/n-grams), without

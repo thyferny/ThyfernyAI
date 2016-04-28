@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/9/8 23:04</create-date>
  *
- * <copyright file="Util.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="Util.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.corpus.io;
@@ -22,12 +22,12 @@ import java.util.*;
 
 import in.thyferny.nlp.corpus.tag.Nature;
 import in.thyferny.nlp.dictionary.CoreDictionary;
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
  * 一些常用的IO操作
  *
- * @author hankcs
+ * @author thyferny
  */
 public class IOUtil
 {

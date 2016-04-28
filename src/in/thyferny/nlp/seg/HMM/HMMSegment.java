@@ -20,12 +20,12 @@ import in.thyferny.nlp.corpus.io.ByteArray;
 import in.thyferny.nlp.model.trigram.CharacterBasedGenerativeModel;
 import in.thyferny.nlp.seg.CharacterBasedGenerativeModelSegment;
 import in.thyferny.nlp.seg.common.Term;
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
  * 基于2阶HMM（A Second-Order Hidden Markov Model, TriGram3阶文法模型）+ BMES序列标注的分词器
  *
- * @author hankcs
+ * @author thyferny
  */
 public class HMMSegment extends CharacterBasedGenerativeModelSegment
 {

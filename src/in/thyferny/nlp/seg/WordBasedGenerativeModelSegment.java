@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/10/30 10:02</create-date>
  *
- * <copyright file="HiddenMarkovModelSegment.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="HiddenMarkovModelSegment.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.seg;
@@ -25,12 +25,12 @@ import in.thyferny.nlp.seg.common.Term;
 import in.thyferny.nlp.seg.common.Vertex;
 import in.thyferny.nlp.seg.common.WordNet;
 import in.thyferny.nlp.utility.Predefine;
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
  * 基于词语NGram模型的分词器基类
  *
- * @author hankcs
+ * @author thyferny
  */
 public abstract class WordBasedGenerativeModelSegment extends Segment
 {

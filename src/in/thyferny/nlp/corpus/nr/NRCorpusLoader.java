@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/9/11 12:58</create-date>
  *
- * <copyright file="NRCorpusLoader.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="NRCorpusLoader.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.corpus.nr;
@@ -24,7 +24,7 @@ import in.thyferny.nlp.corpus.document.sentence.word.Word;
 import in.thyferny.nlp.corpus.tag.NR;
 /**
  * 对人名语料的解析，并且生成词典
- * @author hankcs
+ * @author thyferny
  */
 public class NRCorpusLoader
 {

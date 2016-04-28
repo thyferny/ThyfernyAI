@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/10/31 20:14</create-date>
  *
@@ -14,7 +14,7 @@ package in.thyferny.nlp.dependency.nnparser.option;
 import in.thyferny.nlp.HanLP;
 
 /**
- * @author hankcs
+ * @author thyferny
  */
 public class ConfigOption
 {

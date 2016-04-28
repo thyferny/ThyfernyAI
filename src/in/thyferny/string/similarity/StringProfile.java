@@ -23,7 +23,7 @@
  */
 package in.thyferny.string.similarity;
 
-import in.thyferny.images.core.util.SparseIntegerVector;
+import in.thyferny.utils.SparseIntegerVector;
 
 /**
  * Profile of a string (number of occurences of each shingle/n-gram), computed

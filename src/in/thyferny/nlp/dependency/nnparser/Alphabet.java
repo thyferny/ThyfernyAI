@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/11/1 22:35</create-date>
  *
@@ -19,11 +19,11 @@ import in.thyferny.nlp.collection.trie.DoubleArrayTrie;
 import in.thyferny.nlp.collection.trie.ITrie;
 import in.thyferny.nlp.corpus.io.ByteArray;
 import in.thyferny.nlp.corpus.io.ICacheAble;
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
  * int 到 String 的双向map
- * @author hankcs
+ * @author thyferny
  */
 public class Alphabet implements ICacheAble
 {

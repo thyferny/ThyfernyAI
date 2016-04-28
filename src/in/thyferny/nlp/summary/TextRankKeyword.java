@@ -9,7 +9,7 @@ import in.thyferny.nlp.tokenizer.StandardTokenizer;
 
 /**
  * 基于TextRank算法的关键字提取，适用于单文档
- * @author hankcs
+ * @author thyferny
  */
 public class TextRankKeyword extends KeywordExtractor
 {

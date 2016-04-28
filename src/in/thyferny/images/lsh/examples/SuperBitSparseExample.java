@@ -2,8 +2,8 @@ package in.thyferny.images.lsh.examples;
 
 import java.util.Random;
 
-import in.thyferny.images.core.util.SparseIntegerVector;
 import in.thyferny.images.lsh.SuperBit;
+import in.thyferny.utils.SparseIntegerVector;
 
 /**
  *

@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2015/3/13 18:36</create-date>
  *
- * <copyright file="CommonSuffixExtractor.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="CommonSuffixExtractor.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.corpus.dictionary;
@@ -23,7 +23,7 @@ import in.thyferny.nlp.tokenizer.StandardTokenizer;
 
 /**
  * 公共后缀提取工具
- * @author hankcs
+ * @author thyferny
  */
 public class CommonSuffixExtractor
 {

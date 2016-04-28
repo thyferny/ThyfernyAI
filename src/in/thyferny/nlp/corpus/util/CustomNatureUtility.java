@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2016/1/4 16:02</create-date>
  *
@@ -25,7 +25,7 @@ import in.thyferny.nlp.seg.common.Vertex;
 /**
  * 运行时动态增加词性工具
  *
- * @author hankcs
+ * @author thyferny
  */
 public class CustomNatureUtility
 {

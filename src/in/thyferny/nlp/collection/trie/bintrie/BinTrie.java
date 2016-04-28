@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/5/3 11:34</create-date>
  *
- * <copyright file="BinTrie.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="BinTrie.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.collection.trie.bintrie;
@@ -20,12 +20,12 @@ import java.util.*;
 import in.thyferny.nlp.collection.trie.ITrie;
 import in.thyferny.nlp.corpus.io.ByteArray;
 import in.thyferny.nlp.corpus.io.IOUtil;
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
  * 首字直接分配内存，之后二分动态数组的Trie树，能够平衡时间和空间
  *
- * @author hankcs
+ * @author thyferny
  */
 public class BinTrie<V> extends BaseNode<V> implements ITrie<V>
 {

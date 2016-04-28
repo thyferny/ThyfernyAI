@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-package in.thyferny.images.core.util;
+package in.thyferny.utils;
 
 import java.io.Serializable;
 import java.util.HashMap;

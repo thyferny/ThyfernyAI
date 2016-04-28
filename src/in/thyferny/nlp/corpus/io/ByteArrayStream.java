@@ -17,11 +17,11 @@ import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
  * 流式的字节数组，降低读取时的内存峰值
- * @author hankcs
+ * @author thyferny
  */
 public class ByteArrayStream extends ByteArray
 {

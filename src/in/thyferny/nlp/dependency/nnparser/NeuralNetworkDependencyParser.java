@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/11/2 20:54</create-date>
  *
@@ -28,7 +28,7 @@ import in.thyferny.nlp.tokenizer.StandardTokenizer;
 
 /**
  * 基于神经网络分类模型arc-standard转移动作的判决式依存句法分析器
- * @author hankcs
+ * @author thyferny
  */
 public class NeuralNetworkDependencyParser extends AbstractDependencyParser
 {

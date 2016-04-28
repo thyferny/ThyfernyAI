@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/12/5 19:35</create-date>
  *
- * <copyright file="CharArray.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="CharArray.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.collection.sequence;
@@ -16,7 +16,7 @@ import java.util.Arrays;
 /**
  * (SimpleString)字符串，为了公用内存，避免值传递，优化运行效率而设置的String的替代品
  *
- * @author hankcs
+ * @author thyferny
  */
 public class SString implements Comparable<SString>, CharSequence
 {

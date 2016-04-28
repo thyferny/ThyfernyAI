@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2015/1/19 20:51</create-date>
  *
- * <copyright file="ViterbiSegment.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="ViterbiSegment.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.seg.Viterbi;
@@ -29,7 +29,7 @@ import in.thyferny.nlp.seg.common.WordNet;
  * Viterbi分词器<br>
  * 也是最短路分词，最短路求解采用Viterbi算法
  *
- * @author hankcs
+ * @author thyferny
  */
 public class ViterbiSegment extends WordBasedGenerativeModelSegment
 {

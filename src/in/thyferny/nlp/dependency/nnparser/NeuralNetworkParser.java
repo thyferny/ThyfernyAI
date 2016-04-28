@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/10/30 20:00</create-date>
  *
@@ -27,10 +27,10 @@ import in.thyferny.nlp.dependency.nnparser.action.ActionFactory;
 import in.thyferny.nlp.dependency.nnparser.option.SpecialOption;
 import in.thyferny.nlp.dependency.nnparser.util.math;
 import in.thyferny.nlp.utility.Predefine;
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
- * @author hankcs
+ * @author thyferny
  */
 public class NeuralNetworkParser implements ICacheAble
 {

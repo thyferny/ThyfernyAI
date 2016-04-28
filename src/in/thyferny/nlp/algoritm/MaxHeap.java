@@ -1,6 +1,6 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
+ * <author>thyferny</author>
  * <email>me@hankcs.com</email>
  * <create-date>2015/11/22 13:23</create-date>
  *
@@ -16,7 +16,7 @@ import java.util.*;
 /**
  * 用固定容量的优先队列模拟的最大堆，用于解决求topN大的问题
  *
- * @author hankcs
+ * @author thyferny
  */
 public class MaxHeap<E>
 {

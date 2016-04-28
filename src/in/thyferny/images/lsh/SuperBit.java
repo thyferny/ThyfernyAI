@@ -27,8 +27,8 @@ package in.thyferny.images.lsh;
 import java.io.Serializable;
 import java.util.Random;
 
-import in.thyferny.images.core.util.SparseDoubleVector;
-import in.thyferny.images.core.util.SparseIntegerVector;
+import in.thyferny.utils.SparseDoubleVector;
+import in.thyferny.utils.SparseIntegerVector;
 
 /**
  * Implementation of Super-Bit Locality-Sensitive Hashing.

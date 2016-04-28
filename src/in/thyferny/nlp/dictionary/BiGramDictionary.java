@@ -1,12 +1,12 @@
 /*
  * <summary></summary>
- * <author>He Han</author>
- * <email>hankcs.cn@gmail.com</email>
+ * <author>thyferny</author>
+ * <email>thyferny@163.com</email>
  * <create-date>2014/05/2014/5/16 20:55</create-date>
  *
- * <copyright file="BiGramDictionary.java" company="上海林原信息科技有限公司">
- * Copyright (c) 2003-2014, 上海林原信息科技有限公司. All Right Reserved, http://www.linrunsoft.com/
- * This source is subject to the LinrunSpace License. Please contact 上海林原信息科技有限公司 to get more information.
+ * <copyright file="BiGramDictionary.java" company="thyferny">
+ * 
+ * 
  * </copyright>
  */
 package in.thyferny.nlp.dictionary;
@@ -24,13 +24,13 @@ import in.thyferny.nlp.collection.trie.bintrie.BinTrie;
 import in.thyferny.nlp.corpus.io.ByteArray;
 import in.thyferny.nlp.corpus.io.IOUtil;
 import in.thyferny.nlp.utility.Predefine;
-import in.thyferny.nlp.utility.TextUtility;
+import in.thyferny.utils.TextUtility;
 
 /**
  * 2元语法词典
  *
  * @deprecated 现在基于DoubleArrayTrie的BiGramDictionary已经由CoreBiGramTableDictionary替代，可以显著降低内存
- * @author hankcs
+ * @author thyferny
  */
 public class BiGramDictionary
 {
